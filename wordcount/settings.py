@@ -54,7 +54,7 @@ ROOT_URLCONF = 'wordcount.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [r'C:\Users\Onur\Desktop\webinterface\templates'],
+        'DIRS': [r'templates'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
